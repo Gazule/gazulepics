@@ -1,6 +1,5 @@
 ---
 title: "Photos Vendôme et environs"
-order: 4
+order: 2
 in_menu: true
 ---
- 
