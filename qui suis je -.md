@@ -1,6 +1,6 @@
 ---
 title: "Qui suis je ?"
 order: 2
-in_menu: true
+in_menu: false
 ---
 Je me prénomme François ... retraité. 
